@@ -8,9 +8,7 @@ Currently, two official plugins are available:
 
 - [https://cloud.google.com/?hl=en](https://cloud.google.com/?hl=en)
 
-- [npm install express@^4.18.2 googleapis@^129.0.0 nodemon@^3.0.2
-
-]()
+- [npm install express@^4.18.2 googleapis@^129.0.0 nodemon@^3.0.2]()
 <br/>
 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="bootstrap" width="35" height="40"/> </a>

@@ -8,7 +8,8 @@ Currently, two official plugins are available:
 
 - [https://cloud.google.com/?hl=en](https://cloud.google.com/?hl=en)
 
-- [npm install axios@^1.6.3 cors@^2.8.5 express@^4.18.2 mongodb@^6.3.0 nodemon@^3.0.2 react@^18.2.0 react-dom@^18.2.0 react-google-charts@^4.0.1
+- [npm install express@^4.18.2 googleapis@^129.0.0 nodemon@^3.0.2
+
 ]()
 <br/>
 

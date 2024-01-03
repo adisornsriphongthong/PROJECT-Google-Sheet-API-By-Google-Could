@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+#credentials.json
+./credentials.json
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+node_repl_history
+
+# dotenv environment variables file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db

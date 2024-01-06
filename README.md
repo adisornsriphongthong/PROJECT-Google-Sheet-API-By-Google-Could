@@ -6,8 +6,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
   <br/>
-- API Oxford 3000 [https://project-create-api-oxford-1-3000-production.up.railway.app/](https://project-create-api-oxford-1-3000-production.up.railway.app/)
-- railway [https://railway.app/](https://railway.app/)
 - google could [https://cloud.google.com/?hl=en](https://cloud.google.com/?hl=en)
   <br/>
 

@@ -7,6 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - [https://cloud.google.com/?hl=en](https://cloud.google.com/?hl=en)
+- railway [https://railway.app/](https://railway.app/)
+- google could [https://cloud.google.com/?hl=en](https://cloud.google.com/?hl=en)
 
 - [npm install express@^4.18.2 googleapis@^129.0.0 nodemon@^3.0.2]()
 <br/>
